@@ -4,4 +4,4 @@ berikut live demonya
 
 | Nama Project       | Live Demo       |
 |---------------|---------------|
-| Age Calculator   | <a href="https://r1nto.github.io/Javascript-mini-projects/Age_Calculator/Index.html"></a>   | 
+| Age Calculator   | <a href="https://r1nto.github.io/Javascript-mini-projects/Age_Calculator/Index.html">Live Demo</a>   | 
